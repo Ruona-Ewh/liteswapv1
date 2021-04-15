@@ -1,5 +1,7 @@
 # liteswapv1
- Table of Contents
+## Introduction
+The aim of liteswap is to provide liquidity for tokens, allow individuals stake crypto assets in order generate rewards on the assets and aggregate members as DAO for cooperative contribution to stake in a liquidity so as to earn interest/ reward together.
+## Table of Contents
 * General Information
 * Technologies
 * Features
